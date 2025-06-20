@@ -15,6 +15,12 @@ tag: vVERSION
 
 ---
 
+## 5.26.2
+
+`2025-06-20`
+
+- 💄 修复 Form 下 Switch/Rate 组件没有居中对齐的问题。[#54106](https://github.com/ant-design/ant-design/pull/54106) [@afc163](https://github.com/afc163)
+
 ## 5.26.1
 
 `2025-06-16`
